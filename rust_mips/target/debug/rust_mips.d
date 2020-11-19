@@ -1,0 +1,1 @@
+/Users/zach/Documents/rust_mips/rust_mips/target/debug/rust_mips: /Users/zach/Documents/rust_mips/rust_mips/src/alu.rs /Users/zach/Documents/rust_mips/rust_mips/src/main.rs /Users/zach/Documents/rust_mips/rust_mips/src/register.rs
