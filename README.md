@@ -27,9 +27,9 @@ Each of these instructions will create a binary instruction and pass it through 
 Errors and issues can be reported on [github](github.com/Z-Walt_734/project_mips)
 
 ### Future additions
-[] Create Outside Memory support
-[] Add LW SW support
-[] Complete Mips Instruction Operation
-[] Add instruction file support
-[] Upload to Rust Cargo 
-[] Add GUI
+- [] Create Outside Memory support
+- [] Add LW SW support
+- [] Complete Mips Instruction Operation
+- [] Add instruction file support
+- [] Upload to Rust Cargo 
+- [] Add GUI
